@@ -46,20 +46,20 @@ https://www.codecademy.com/learn/learn-swift
 
 **Block Letters:**
 
-- [ ] `initials.swift`
+- [x] [`initials.swift`](1-hello-world/block-letters/letter.swift)
 
 ## 2. Variables ##
 
-- [x] [`temperature1.cpp`](2-variables/temperature1.cpp)
-- [x] [`temperature2.cpp`](2-variables/temperature2.cpp)
-- [x] [`bmi.cpp`](2-variables/bmi.cpp)
+- [ ] [`temperature1.cpp`](2-variables/temperature1.cpp)
+- [ ] [`temperature2.cpp`](2-variables/temperature2.cpp)
+- [ ] [`bmi.cpp`](2-variables/bmi.cpp)
 
 **Dog Years:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/dog-years/dog.gif" align="right" width=250;>
 
-- [x] [`dog_years1.cpp`](2-variables/dog-years/dog_years1.cpp)
-- [x] [`dog_years2.cpp`](2-variables/dog-years/dog_years2.cpp)
-- [x] [`snoop_dog.cpp`](2-variables/dog-years/snoop_dog.cpp)
+- [ ] [`dog_years1.cpp`](2-variables/dog-years/dog_years1.cpp)
+- [ ] [`dog_years2.cpp`](2-variables/dog-years/dog_years2.cpp)
+- [ ] [`snoop_dog.cpp`](2-variables/dog-years/snoop_dog.cpp)
 
 **Quadratic Formula:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/quadratic-formula/graph.gif" align="right" width=250;>
