@@ -46,7 +46,7 @@ https://www.codecademy.com/learn/learn-swift
 
 **Block Letters:**
 
-- [x] [`initials.swift`](1-hello-world/block-letters/letter.swift)
+- [x] [`initials.swift`](1-hello-world/block-letters/initials.swift)
 
 ## 2. Variables ##
 
