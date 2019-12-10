@@ -57,9 +57,7 @@ https://www.codecademy.com/learn/learn-swift
 **Dog Years:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/dog-years/dog.gif" align="right" width=250;>
 
-- [ ] [`dog_years1.swift`](2-variables/dog-years/dog_years1.swift)
-- [ ] [`dog_years2.swift`](2-variables/dog-years/dog_years2.swift)
-- [ ] [`snoop_dog.swift`](2-variables/dog-years/snoop_dog.swift)
+- [ ] [`DogYears.swift`](2-variables/dog-years/DogYears.swift)
 
 **Quadratic Formula:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/quadratic-formula/graph.gif" align="right" width=250;>
