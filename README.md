@@ -35,7 +35,7 @@ https://www.codecademy.com/learn/learn-swift
 
 ### eBook ###
 
-[The Swift Programming Language](https://books.apple.com/us/book/the-swift-programming-language-swift-5-1/id881256329) (Apple Inc.)
+[The Swift Programming Language](https://books.apple.com/us/book/the-swift-programming-language-swift-5-1/id881256329) (Apple)
 
 ## 1. Hello World ##
 
@@ -64,39 +64,39 @@ https://www.codecademy.com/learn/learn-swift
 **Quadratic Formula:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/quadratic-formula/graph.gif" align="right" width=250;>
 
-- [x] [`quadratic.swift`](2-variables/quadratic-formula/quadratic.swift)
+- [ ] [`quadratic.swift`](2-variables/quadratic-formula/quadratic.swift)
 
 **Piggy Bank:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/piggy-bank/piggy-bank.gif" align="right" width=250;>
 
-- [x] [`currency.cpp`](2-variables/piggy-bank/currency.cpp)
+- [ ] [`currency.cpp`](2-variables/piggy-bank/currency.cpp)
 
 ## 3. Conditionals & Logic ##
 
-- [x] [`coinflip.cpp`](3-conditionals-and-logic/coinflip.cpp)
-- [x] [`grade.cpp`](3-conditionals-and-logic/grade.cpp)
-- [x] [`pH.cpp`](3-conditionals-and-logic/pH.cpp)
-- [x] [`pokedex.cpp`](3-conditionals-and-logic/pokedex.cpp)
-- [x] [`space.cpp`](3-conditionals-and-logic/space.cpp)
-- [x] [`leap_year.cpp`](3-conditionals-and-logic/leap_year.cpp)
+- [ ] `coinflip.swift`
+- [ ] `grade.swift`
+- [ ] `pH.swift`
+- [ ] `pokedex.swift`
+- [ ] `space.swift`
+- [ ] `leap_year.swift`
 
 **Magic 8-Ball:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" align="right" width=250;>
 
-- [x] [`magic8.cpp`](3-conditionals-and-logic/magic-8-ball/magic8.cpp)
+- [ ] `magic8.swift`
 
 **Harry Potter Sorting Hat:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/harry-potter-sorting-hat/harrypotter.gif" align="right" width=250;>
 
-- [x] [`sortinghat.cpp`](3-conditionals-and-logic/harry-potter-sorting-hat/sortinghat.cpp)
+- [ ] `sortinghat.swift`
 
 **Rock Paper Scissors Lizard Spock:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS.gif" align="right" width=250;>
 
-- [x] [`RPS.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPS.cpp)
-- [x] [`RPSLS.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS.cpp)
-- [x] [`RPSLS_if.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS_if.cpp)
-- [x] [`RPSLS_switch.cpp`](3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS_switch.cpp)
+- [ ] `RPS.swift`
+- [ ] `RPSLS.swift`
+- [ ] `RPSLS_if.swift`
+- [ ] `RPSLS_switch.swift`
 
 ## 4. Loops ##
 
