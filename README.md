@@ -23,9 +23,9 @@
 [6.1]: http://www.github.com/sonnynomnom
 
 [1.2]: http://www.twitter.com/marielsmusings
-[6.2]: http://www.github.com/marielfrank
+[6.2]: http://www.github.com/linkcoding
     
-**Curriulum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][1]][1.2] [![alt text][6]][6.2]
+**Curriulum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][1]][1.2]
 
 **Artwork:** Tim Liedtke
 
@@ -50,21 +50,21 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 2. Variables ##
 
-- [ ] [`temperature1.cpp`](2-variables/temperature1.cpp)
-- [ ] [`temperature2.cpp`](2-variables/temperature2.cpp)
-- [ ] [`bmi.cpp`](2-variables/bmi.cpp)
+- [ ] [`temperature1.swift`](2-variables/temperature1.swift)
+- [ ] [`temperature2.swift`](2-variables/temperature2.swift)
+- [ ] [`bmi.swift`](2-variables/bmi.swift)
 
 **Dog Years:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/dog-years/dog.gif" align="right" width=250;>
 
-- [ ] [`dog_years1.cpp`](2-variables/dog-years/dog_years1.cpp)
-- [ ] [`dog_years2.cpp`](2-variables/dog-years/dog_years2.cpp)
-- [ ] [`snoop_dog.cpp`](2-variables/dog-years/snoop_dog.cpp)
+- [ ] [`dog_years1.swift`](2-variables/dog-years/dog_years1.swift)
+- [ ] [`dog_years2.swift`](2-variables/dog-years/dog_years2.swift)
+- [ ] [`snoop_dog.swift`](2-variables/dog-years/snoop_dog.swift)
 
 **Quadratic Formula:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/quadratic-formula/graph.gif" align="right" width=250;>
 
-- [x] [`quadratic.cpp`](2-variables/quadratic-formula/quadratic.cpp)
+- [x] [`quadratic.swift`](2-variables/quadratic-formula/quadratic.swift)
 
 **Piggy Bank:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/piggy-bank/piggy-bank.gif" align="right" width=250;>
