@@ -27,7 +27,7 @@
     
 **Curriulum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][6]][6.2]
 
-**Artwork:** Tim Liedtke
+**Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
 ## Course Link ##
 
@@ -69,7 +69,7 @@ https://www.codecademy.com/learn/learn-swift
 **Piggy Bank:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/piggy-bank/piggy-bank.gif" align="right" width=250;>
 
-- [ ] [`currency.cpp`](2-variables/piggy-bank/currency.cpp)
+- [ ] [`currency.swift`](2-variables/piggy-bank/currency.cpp)
 
 ## 3. Conditionals & Logic ##
 
@@ -100,16 +100,16 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 4. Loops ##
 
-- [x] [`enter_pin.cpp`](4-loops/enter_pin.cpp)
-- [x] [`guess.cpp`](4-loops/guess.cpp)
-- [x] [`square.cpp`](4-loops/square.cpp)
-- [x] [`troublemaker.cpp`](4-loops/troublemaker.cpp)
-- [x] [`99bottles.cpp`](4-loops/99bottles.cpp)
+- [ ] `enter_pin.swift`
+- [ ] `guess.swift`
+- [ ] `square.swift`
+- [ ] `troublemaker.swift`
+- [ ] `99bottles.swift`
 
 **Fizz Buzz:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/4-loops/fizzbuzz/fizzbuzz.gif" align="right" width=250;>
 
-- [x]  [`fizzbuzz.cpp`](4-loops/fizzbuzz/fizzbuzz.cpp)
+- [ ]  `fizzbuzz.swift`
 
 ---
 
