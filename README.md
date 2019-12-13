@@ -62,12 +62,12 @@ https://www.codecademy.com/learn/learn-swift
 **Quadratic Formula:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/quadratic-formula/graph.gif" align="right" width=250;>
 
-- [ ] [`quadratic.swift`](2-variables/quadratic-formula/quadratic.swift)
+- [ ] [`Quadratic.swift`](2-variables/quadratic-formula/Quadratic.swift)
 
 **Piggy Bank:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/piggy-bank/piggy-bank.gif" align="right" width=250;>
 
-- [ ] [`currency.swift`](2-variables/piggy-bank/currency.cpp)
+- [x] [PiggyBank.swift`](2-variables/piggy-bank/PiggyBank.cpp)
 
 ## 3. Conditionals & Logic ##
 
