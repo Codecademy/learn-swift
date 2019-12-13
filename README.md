@@ -52,9 +52,8 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 2. Variables ##
 
-- [ ] [`temperature1.swift`](2-variables/temperature1.swift)
-- [ ] [`temperature2.swift`](2-variables/temperature2.swift)
-- [ ] [`bmi.swift`](2-variables/bmi.swift)
+- [x] [`Temperature.swift`](2-variables/Temperature.swift)
+- [x] [`BMI.swift`](2-variables/BMI.swift)
 
 **Dog Years:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/dog-years/dog.gif" align="right" width=250;>
