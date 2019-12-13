@@ -71,22 +71,22 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 3. Conditionals & Logic ##
 
-- [ ] `coinflip.swift`
-- [ ] `grade.swift`
-- [ ] `pH.swift`
-- [ ] `pokedex.swift`
-- [ ] `space.swift`
-- [ ] `leap_year.swift`
+- [ ] `CoinFlip.swift`
+- [ ] `Grade.swift`
+- [ ] `PH.swift`
+- [ ] `Pokedex.swift`
+- [ ] `Space.swift`
+- [ ] `LeapYear.swift`
 
 **Magic 8-Ball:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" align="right" width=250;>
 
-- [ ] `magic8.swift`
+- [ ] `Magic8.swift`
 
 **Harry Potter Sorting Hat:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/harry-potter-sorting-hat/harrypotter.gif" align="right" width=250;>
 
-- [ ] `sortinghat.swift`
+- [ ] `SortingHat.swift`
 
 **Rock Paper Scissors Lizard Spock:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS.gif" align="right" width=250;>
@@ -98,45 +98,42 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 4. Loops ##
 
-- [ ] `enter_pin.swift`
-- [ ] `guess.swift`
-- [ ] `square.swift`
-- [ ] `troublemaker.swift`
-- [ ] `99bottles.swift`
+- [ ] `EnterPIN.swift`
+- [ ] `Guess.swift`
+- [ ] `Square.swift`
+- [ ] `Troublemaker.swift`
+- [ ] `99Bottles.swift`
 
 **Fizz Buzz:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/4-loops/fizzbuzz/fizzbuzz.gif" align="right" width=250;>
 
-- [ ]  `fizzbuzz.swift`
+- [ ]  `FizzBuzz.swift`
 
 ---
 
 ### Cheat Sheets (BETA) ###
 
-1. [Hello World](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-hello-world/reference)
-2. [Variables](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-variables/reference)
-3. [Conditionals & Logic](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-conditionals-and-logic/reference)
-4. [Loops](https://www.codecademy.com/learn/learn-c-plus-plus/modules/learn-cpp-loops/reference)
+1. [Hello World](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-hello-world/reference)
+2. [Variables](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-variables/reference)
 
 ### Skill Paths ###
 
-- Build iOS with Swift
-- Build watchOS with Swift
+- iOS Development with Swift?
+- watchOS Developmenet with Swift?
 
 ### Talking Swift ###
 
-1. [Talking C++: Interview with Simon Brand](https://dev.to/codecademy/talking-c-interview-with-simon-brand-3gma)
-2. [Talking C++: Interview with Bjarne Stroustroup](https://news.codecademy.com/bjarne-stroustrup-interview/)
+- Coming Soon
 
 ### Swift Community Challenge 2019 ###
 
-* https://dev.to/codecademy/c-community-challenge-3l8m
+* Coming Soon
 
 ### Swift Style Guides ###
 
 * Codecademy C++ Style Guide
-* [Microsoft C++ Style Guide](https://github.com/Microsoft/AirSim/blob/master/docs/coding_guidelines.md)
-* [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+* [LinkedIn Swift Style Guide](https://github.com/linkedin/swift-style-guide)
+* [Google Swift Style Guide](https://google.github.io/swift/)
 
 ### Hall of Fame ###
 
