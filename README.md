@@ -41,14 +41,14 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 1. Hello World ##
 
-- [x] [`hello.swift`](1-hello-world/hello.swift)
-- [x] [`pattern.swift`](1-hello-world/pattern.swift)
-- [x] [`codecademy.swift`](1-hello-world/codecademy.swift)
-- [x] [`letter.swift`](1-hello-world/letter.swift)
+- [x] [`Hello.swift`](1-hello-world/hello.swift)
+- [x] [`Pattern.swift`](1-hello-world/pattern.swift)
+- [x] [`Codecademy.swift`](1-hello-world/codecademy.swift)
+- [x] [`Letter.swift`](1-hello-world/letter.swift)
 
 **Block Letters:**
 
-- [x] [`initials.swift`](1-hello-world/block-letters/initials.swift)
+- [x] [`Initials.swift`](1-hello-world/block-letters/initials.swift)
 
 ## 2. Variables ##
 
