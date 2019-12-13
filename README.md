@@ -57,17 +57,17 @@ https://www.codecademy.com/learn/learn-swift
 **Dog Years:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/dog-years/dog.gif" align="right" width=250;>
 
-- [ ] [`DogYears.swift`](2-variables/dog-years/DogYears.swift)
+- [x] [`DogYears.swift`](2-variables/dog-years/DogYears.swift)
 
 **Quadratic Formula:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/quadratic-formula/graph.gif" align="right" width=250;>
 
-- [ ] [`Quadratic.swift`](2-variables/quadratic-formula/Quadratic.swift)
+- [x] [`Quadratic.swift`](2-variables/quadratic-formula/Quadratic.swift)
 
 **Piggy Bank:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/2-variables/piggy-bank/piggy-bank.gif" align="right" width=250;>
 
-- [x] [PiggyBank.swift`](2-variables/piggy-bank/PiggyBank.cpp)
+- [x] [`PiggyBank.swift`](2-variables/piggy-bank/PiggyBank.swift)
 
 ## 3. Conditionals & Logic ##
 
