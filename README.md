@@ -50,7 +50,7 @@ https://www.codecademy.com/learn/learn-swift
 **Block Letters:**
 
 - [x] [`Initials.swift`](1-hello-world/block-letters/Initials.swift)
-- [x] [`Snowman.swifit`](1-hello-world/block-letters/Snowman.swift)
+- [x] [`Snowman.swift`](1-hello-world/block-letters/Snowman.swift)
 
 ## 2. Variables ##
 
