@@ -27,7 +27,8 @@
 [2.3]: http://www.github.com
     
 **Curriculum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.2]
-**Curriculum Developer:**  Galina Podstrechnaya (galina@codecademy.com)
+
+**Curriculum Developer:** Galina Podstrechnaya (galina@codecademy.com)
 
 **Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
