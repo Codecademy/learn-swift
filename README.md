@@ -4,29 +4,29 @@
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
-**Curriculum Developer:** Sonny Li (sonny@codecademy.com) [![alt text][6]][6.1] [![alt text][1]][1.1]
+**Curriculum Developer:** Sonny Li (sonny@codecademy.com) [![alt text][2]][2.1] [![alt text][1]][1.1]
 
 <!-- links to social media icons -->
 
 <!-- icons without padding -->
 
 [1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
-[4]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
-[5]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
-[6]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[4]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
+[5]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
+[6]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
 
 <!-- links to social media accounts -->
 
 [1.1]: http://www.twitter.com/sonnynomnom
-[6.1]: http://www.github.com/sonnynomnom
+[2.1]: http://www.github.com/sonnynomnom
 
-[1.2]: http://www.twitter.com/marielsmusings
-[6.2]: http://www.github.com/linkcoding
+[2.2]: http://www.github.com/linkcoding
+
+[2.3]: http://www.github.com
     
-**Curriculum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][6]][6.2]
-
+**Curriculum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.2]
 **Curriculum Developer:**  Galina Podstrechnaya (galina@codecademy.com)
 
 **Artwork:** Tim Liedtke (https://www.timliedtke.com)
