@@ -24,11 +24,11 @@
 
 [2.2]: http://www.github.com/linkcoding
 
-[2.3]: http://www.github.com
+[2.3]: http://www.github.com/galinap684
     
 **Curriculum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.2]
 
-**Curriculum Developer:** Galina Podstrechnaya (galina@codecademy.com)
+**Curriculum Developer:** Galina Podstrechnaya (galina@codecademy.com) [![alt text][2]][2.3]
 
 **Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
