@@ -128,7 +128,7 @@ https://www.codecademy.com/learn/learn-swift
 
 - Coming Soon
 
-### Swift Community Challenge 2019 ###
+### Swift Community Challenge 2020 ###
 
 * Coming Soon
 
