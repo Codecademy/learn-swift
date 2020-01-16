@@ -30,6 +30,8 @@
 
 **Curriculum Developer:** Galina Podstrechnaya (galina@codecademy.com) [![alt text][2]][2.3]
 
+**Curriculum Developer:** Alex DiStaci (adistaci@codecademy.com)
+
 **Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
 ## Course Link ##
