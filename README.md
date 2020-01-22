@@ -116,6 +116,20 @@ https://www.codecademy.com/learn/learn-swift
 
 - [ ]  `FizzBuzz.swift`
 
+## 5. Arrays ##
+
+**How to Make a Mixtape 101:**
+
+- [ ] `Taylor.swift`
+
+**Palindrome:**
+
+- [ ] `Palindrome.swift`
+
+**Caesar's Cipher:**
+
+- [x] [`CaesarCipher.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/caesar-cipher/CaesarCipher.swift)
+
 ---
 
 ### Cheat Sheets (BETA) ###
