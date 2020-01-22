@@ -25,12 +25,14 @@
 [2.2]: http://www.github.com/linkcoding
 
 [2.3]: http://www.github.com/galinap684
+
+[2.4]: http://www.github.com/adistasicc
     
 **Curriculum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.2]
 
 **Curriculum Developer:** Galina Podstrechnaya (galina@codecademy.com) [![alt text][2]][2.3]
 
-**Curriculum Developer:** Alex DiStasi (adistasi@codecademy.com)
+**Curriculum Developer:** Alex DiStasi (adistasi@codecademy.com) [![alt text][2]][2.4]
 
 **Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
