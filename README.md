@@ -120,7 +120,8 @@ https://www.codecademy.com/learn/learn-swift
 
 **How to Make a Mixtape 101:**
 
-- [ ] `Taylor.swift`
+- [ ] [`Mixtape.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/mixtape/Mixtape.swift)
+- [ ] [`Taylor.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/mixtape/Taylor.swift)
 
 **Palindrome:**
 
