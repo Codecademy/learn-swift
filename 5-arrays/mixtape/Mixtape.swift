@@ -31,5 +31,3 @@ mixtape.insert("Taylor Swift - Mean", at: 0)
 for i in 0 ..< mixtape.count {
   print("Track \(i+1): \(mixtape[i])")
 }
-
-print("..-. .- .-. . .-- . .-.. .-..")
