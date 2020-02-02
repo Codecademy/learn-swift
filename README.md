@@ -124,7 +124,7 @@ https://www.codecademy.com/learn/learn-swift
 
 **Make a Mixtape 101:**
 
-- [x] [`AwesomeMixVol1.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/mixtape/AwesomeMix.swift)
+- [x] [`AwesomeMixVol1.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/mixtape/AwesomeMixVol1.swift)
 - [x] [`Taylor.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/mixtape/Taylor.swift)
 
 **Palindrome:**
