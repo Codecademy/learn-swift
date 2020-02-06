@@ -17,6 +17,6 @@ while numMonkeys > 1 {
 
 // Print the final lyrics
 print ("\(numMonkeys) little monkey jumping on the bed.")
-print ("They fell off bumped their head!")
+print ("They fell off and bumped their head!")
 print ("Mama called the doctor and the doctor said")
 print ("'Put those monkeys straight to bed!'")
