@@ -1,4 +1,4 @@
-// Monkeys.swift
+// FiveLittleMonkeys.swift
 // Alex DiStasi
 // Purpose: Prints the lyrics to Five Little Monkeys song
 
