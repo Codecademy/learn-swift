@@ -122,6 +122,8 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 5. Arrays ##
 
+- [ ] `RetailTherapy.swift`
+
 **Make a Mixtape 101:**
 
 - [x] [`AwesomeMixVol1.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/mixtape/AwesomeMixVol1.swift)
@@ -129,7 +131,7 @@ https://www.codecademy.com/learn/learn-swift
 
 **Palindrome:**
 
-- [ ] `Palindrome.swift`
+- [x] [`Palindrome.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/palindrome/Palindrome.swift)
 
 **Caesar's Cipher:**
 
