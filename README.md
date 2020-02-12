@@ -124,6 +124,12 @@ https://www.codecademy.com/learn/learn-swift
 
 ---
 
+## 6. ? ##
+
+## 7. ? ##
+
+## 8. ? ##
+
 ### Cheat Sheets (BETA) ###
 
 1. [Hello World](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-hello-world/reference)
