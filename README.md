@@ -91,7 +91,6 @@ https://www.codecademy.com/learn/learn-swift
 - [ ] `Guess.swift`
 - [ ] `Square.swift`
 - [ ] `Troublemaker.swift`
-- [ ] `99Bottles.swift`
 
 **Fizz Buzz:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/4-loops/fizzbuzz/fizzbuzz.gif" align="right" width=250;>
@@ -148,15 +147,9 @@ https://www.codecademy.com/learn/learn-swift
 
 ### Swift Style Guides ###
 
-* Codecademy C++ Style Guide
+* Codecademy Swift Style Guide
 * [LinkedIn Swift Style Guide](https://github.com/linkedin/swift-style-guide)
 * [Google Swift Style Guide](https://google.github.io/swift/)
-
-### Hall of Fame ###
-
-* TBA
-
-<br>
 
 ## Contribution Guidelines
 
