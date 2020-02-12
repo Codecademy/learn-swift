@@ -92,18 +92,18 @@ https://www.codecademy.com/learn/learn-swift
 - [ ] `Square.swift`
 - [ ] `Troublemaker.swift`
 
-**Fizz Buzz:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/4-loops/fizzbuzz/fizzbuzz.gif" align="right" width=250;>
+**Whale Talk:**
 
-- [ ] `FizzBuzz.swift`
+- [x] [`WhaleTalk.swift`](https://github.com/Codecademy/learn-swift/blob/master/4-loop/whale-talk/WhaleTalk.swift)
 
 **99 Bottles:**
 
 - [ ] `Bottles.swift`
 
-**Whale Talk:**
+**Fizz Buzz:**
+<img src="https://github.com/Codecademy/learn-cpp/blob/master/4-loops/fizzbuzz/fizzbuzz.gif" align="right" width=250;>
 
-- [ ] `WhaleTalk.swift`
+- [x] [`FizzBuzz.swift`](https://github.com/Codecademy/learn-swift/blob/master/4-loops/fizzbuzz/FizzBuzz.swift)
 
 ## 5. Arrays ##
 
