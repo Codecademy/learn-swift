@@ -1,8 +1,9 @@
+// FizzBuzz
 // Kenny Lin
-// Solutions for FizzBuzz
 
-// while loop:
+// Using a while loop:
 var counter = 1
+
 while counter <= 100 {
   // Could also do: counter % 15 == 0
   if counter % 3 == 0 && counter % 5 == 0 {
@@ -17,7 +18,7 @@ while counter <= 100 {
   counter += 1
 }
 
-// for-in loop:
+// Using a for-in loop:
 for num in 1...100 {
   // Could also do: num % 15 == 0
   if num % 3 == 0 && num % 5 == 0 { 
