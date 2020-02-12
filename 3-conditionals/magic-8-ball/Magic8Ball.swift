@@ -1,3 +1,6 @@
+// Magic 8-Ball 🎱
+// Galina Podstrechnaya
+
 let playerName = "Galina"
 
 let playerQuestion = "Will there be any more snowfall in New York for winter 2020? ❄️" 
@@ -31,4 +34,8 @@ switch randomNumber {
 }
 
 print("\(playerName)'s Question: \(playerQuestion)")
+
+// Challenge:
+// playerName.isEmpty ? print("Question: \(playerQuestion)") : print("\(playerName) asks: \(playerQuestion)")
+
 print("Magic 8 Ball's answer: \(eightBall)")
