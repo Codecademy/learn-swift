@@ -98,7 +98,7 @@ https://www.codecademy.com/learn/learn-swift
 
 **99 Bottles:**
 
-- [ ] `Bottles.swift`
+- [x] [`Bottles.swift`](https://github.com/Codecademy/learn-swift/blob/master/4-loops/99-bottles/99Bottles.swift)
 - [ ] `FiveMonkeys.swift`
 
 **Fizz Buzz:**
