@@ -2,7 +2,6 @@
 // Sonny Li
 
 var text = ["h", "e", "l", "l", "o"]
-
 var reversed = [String]()
 
 var counter = text.count - 1
