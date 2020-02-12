@@ -1,4 +1,4 @@
-// Palindrome
+// Palindrome 💬
 // Sonny Li
 
 var text = ["h", "e", "l", "l", "o"]
