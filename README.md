@@ -79,29 +79,11 @@ https://www.codecademy.com/learn/learn-swift
 ## 3. Conditionals & Logic ##
 
 - [ ] `CoinFlip.swift`
-- [ ] `Grade.swift`
-- [ ] `PH.swift`
-- [ ] `Pokedex.swift`
-- [ ] `Space.swift`
-- [ ] `LeapYear.swift`
 
 **Magic 8-Ball:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" align="right" width=250;>
 
 - [ ] `Magic8.swift`
-
-**Harry Potter Sorting Hat:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/harry-potter-sorting-hat/harrypotter.gif" align="right" width=250;>
-
-- [ ] `SortingHat.swift`
-
-**Rock Paper Scissors Lizard Spock:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS.gif" align="right" width=250;>
-
-- [ ] `RPS.swift`
-- [ ] `RPSLS.swift`
-- [ ] `RPSLS_if.swift`
-- [ ] `RPSLS_switch.swift`
 
 ## 4. Loops ##
 
@@ -119,6 +101,10 @@ https://www.codecademy.com/learn/learn-swift
 **99 Bottles:**
 
 - [ ] `Bottles.swift`
+
+**Whale Talk:**
+
+- [ ] `WhaleTalk.swift`
 
 ## 5. Arrays ##
 
