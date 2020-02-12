@@ -78,19 +78,12 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 3. Conditionals & Logic ##
 
-- [ ] `CoinFlip.swift`
-
 **Magic 8-Ball:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" align="right" width=250;>
 
 - [ ] `Magic8.swift`
 
 ## 4. Loops ##
-
-- [ ] `EnterPIN.swift`
-- [ ] `Guess.swift`
-- [ ] `Square.swift`
-- [ ] `Troublemaker.swift`
 
 **Whale Talk:**
 
