@@ -81,7 +81,7 @@ https://www.codecademy.com/learn/learn-swift
 **Magic 8-Ball:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" align="right" width=250;>
 
-- [x] [`Magic8Ball.swift`](https://github.com/Codecademy/learn-swift/blob/master/3-condtionals/magic-8-ball/Magic8Ball.swift
+- [x] [`Magic8Ball.swift`](https://github.com/Codecademy/learn-swift/blob/master/3-condtionals/magic-8-ball/Magic8Ball.swift)
 
 ## 4. Loops ##
 
