@@ -94,7 +94,7 @@ https://www.codecademy.com/learn/learn-swift
 
 **Whale Talk:**
 
-- [x] [`WhaleTalk.swift`](https://github.com/Codecademy/learn-swift/blob/master/4-loop/whale-talk/WhaleTalk.swift)
+- [x] [`WhaleTalk.swift`](https://github.com/Codecademy/learn-swift/blob/master/4-loops/whale-talk/WhaleTalk.swift)
 
 **99 Bottles:**
 
