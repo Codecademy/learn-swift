@@ -143,6 +143,9 @@ https://www.codecademy.com/learn/learn-swift
 
 1. [Hello World](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-hello-world/reference)
 2. [Variables](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-variables/reference)
+3. [Condtionals & Logic](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-conditionals/reference)
+4. [Loops](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-loops/reference)
+5. [Arrays](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-arrays/reference)
 
 ### Skill Paths ###
 
