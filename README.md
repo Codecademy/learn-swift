@@ -122,13 +122,13 @@ https://www.codecademy.com/learn/learn-swift
 
 - [x] [`CaesarCipher.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/caesar-cipher/CaesarCipher.swift)
 
----
-
 ## 6. ? ##
 
 ## 7. ? ##
 
 ## 8. ? ##
+
+---
 
 ### Cheat Sheets (BETA) ###
 
