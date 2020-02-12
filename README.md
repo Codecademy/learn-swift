@@ -108,7 +108,9 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 5. Arrays ##
 
-- [ ] `RetailTherapy.swift`
+- [x] [`NewYearNewMe.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/NewYearNewMe.swift)
+- [x] [`DNA.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/DNA.swift)
+- [x] [`RetailTherapy.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/RetailTherapy.swift)
 
 **Make a Mixtape 101:**
 
