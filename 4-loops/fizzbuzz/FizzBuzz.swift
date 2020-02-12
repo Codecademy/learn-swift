@@ -1,4 +1,4 @@
-// FizzBuzz
+// Fizz Buzz 🐝
 // Kenny Lin
 
 // Using a while loop:
