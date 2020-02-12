@@ -1,4 +1,4 @@
-// FiveLittleMonkeys.swift
+// Five Little Monkeys 🐵🙉🙊🙈🐒
 // Alex DiStasi
 // Purpose: Prints the lyrics to Five Little Monkeys song
 
@@ -11,7 +11,6 @@ while numMonkeys > 1 {
   print ("One fell off and bumped their head!")
   print ("Mama called the doctor and the doctor said")
   print ("'No more monkeys jumping on the bed!'\n")
-  // Decrease the value of numMonkeys by 1
   numMonkeys -= 1
 }
 
