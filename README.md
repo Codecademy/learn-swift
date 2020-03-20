@@ -118,15 +118,17 @@ https://www.codecademy.com/learn/learn-swift
 
 - [x] [`CaesarCipher.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/caesar-cipher/CaesarCipher.swift)
 
-## 6. ? ##
+## 6. Dictionaries ##
 
-## 7. ? ##
+## 7. Functions ##
 
-## 8. ? ##
+## 8. Structures ##
+
+## 9. Classes ##
 
 ---
 
-### Cheat Sheets (BETA) ###
+### Cheatsheets ###
 
 1. [Hello World](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-hello-world/cheatsheet)
 2. [Variables](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-variables/cheatsheet)
