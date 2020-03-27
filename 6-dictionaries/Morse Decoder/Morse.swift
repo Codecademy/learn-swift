@@ -43,7 +43,7 @@ var lettersToMorse: [String: String] = [
 ]
 
 
-// Part 1: Encoding a Message
+// Encoding a Message
 
 // Empty string that will store a morse code message
 var morseText = ""
@@ -64,7 +64,7 @@ for element in englishText {
 print (morseText)
 
 
-// Part 2: Decoding a Message
+// Decoding a Message
 
 var decodedMessage = ""
 var currMorse = ""
@@ -81,7 +81,7 @@ for char in secretMessage {
   
   // If the value of char is a space character, the code in the else statement will be executed
   else {
-    // Use a switch statement to assemble the individual '-'s and '.'s, and ' 's into individual morse code letters
+    // Use a switch statement to assemble characters into individual morse code letters
     switch currMorse {
       case "": 
         currMorse += " "
