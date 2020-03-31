@@ -1,3 +1,5 @@
+// Write your code below 💪
+
 struct Exercise {
   var name: String
   var muscleGroups: [String] 
@@ -14,7 +16,7 @@ struct Exercise {
   }
 }
 
-var pushUp = Exercise(name: "Push Up", muscleGroups: ["Triceps", "Chest", "Shoulders"], reps: 10, sets: 3)
+var pushUp = Exercise(name: "Push up", muscleGroups: ["Triceps", "Chest", "Shoulders"], reps: 10, sets: 3)
 
 struct Regimen {
   var dayOfWeek: String 
@@ -25,7 +27,7 @@ struct Regimen {
     self.exercises = exercises
   }
 
-  func exercisePlan() {
+  func printExercisePlan() {
     print("Today is \(self.dayOfWeek) and you're going to:")
     for exercise in self.exercises {
       print("Do \(exercise.sets) sets of \(exercise.reps) \(exercise.name)s")
@@ -36,5 +38,5 @@ struct Regimen {
 
 var mondayRegimen = Regimen(dayOfWeek: "Monday", exercises:[pushUp])
 
-mondayRegimen.exercisePlan()
+mondayRegimen.printExercisePlan()
 
