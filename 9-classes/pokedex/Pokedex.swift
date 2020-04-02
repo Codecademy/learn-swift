@@ -1,42 +1,56 @@
-// Write your code below 💪
+// Pokdex (Sonny Li)
 
-struct Exercise {
+class Pokemon {
+  var num: Int
   var name: String
-  var muscleGroups: [String] 
-  var reps: Int
-  var sets: Int
-  var totalReps: Int
-  
-  init(name: String, muscleGroups: [String], reps: Int,  sets: Int) {
+  var type: [String]
+  var ability: [String]
+
+  init(num: Int, name: String, type: [String], ability: [String]) {
+    self.num = num
     self.name = name
-    self.muscleGroups = muscleGroups
-    self.reps = reps 
-    self.sets = sets
-    self.totalReps = sets * reps 
+    self.type = type
+    self.ability = ability
+  }
+
+  func displayInfo() {
+    print("No.        #\(num)")
+    print("Name       \(name)")
+    print("Type       \(type)")
+    print("Abilities  \(ability)")
+    print("===================================")
   }
 }
 
-var pushUp = Exercise(name: "Push up", muscleGroups: ["Triceps", "Chest", "Shoulders"], reps: 10, sets: 3)
+class GigantamaxPokemon: Pokemon {
+  
+  var location = ""
 
-struct Regimen {
-  var dayOfWeek: String 
-  var exercises: [Exercise]
-
-  init(dayOfWeek: String, exercises: [Exercise]) {
-    self.dayOfWeek = dayOfWeek
-    self.exercises = exercises
+  init(num: Int, name: String, type: [String], ability: [String], location: String) {
+    self.location = location
+    super.init(num: num, name: name, type: type, ability: ability)
+  
   }
-
-  func printExercisePlan() {
-    print("Today is \(self.dayOfWeek) and you're going to:")
-    for exercise in self.exercises {
-      print("Do \(exercise.sets) sets of \(exercise.reps) \(exercise.name)s")
-      print("That's a total of \(exercise.totalReps) \(exercise.name)s")
-    }
+  
+  override func displayInfo() {
+    print("No.        #\(num)")
+    print("Name       \(name)")
+    print("Type       \(type)")
+    print("Abilities  \(ability)")
+    print("Location   \(location)")
+    print("===================================")
   }
 }
 
-var mondayRegimen = Regimen(dayOfWeek: "Monday", exercises:[pushUp])
+var bulbasaur = Pokemon(num: 1, name: "Bulbasaur", type: ["Grass 🌱", "Poison 💀"], ability: ["Overgrow"])
 
-mondayRegimen.printExercisePlan()
+var charmander = Pokemon(num: 4, name: "Charmander", type: ["Fire 🔥"], ability: ["Blaze"])
 
+var squirtle = Pokemon(num: 7, name: "Squirtle", type: ["Water 💧"], ability: ["Torrent"])
+
+var charizard = GigantamaxPokemon(num: 6, name: "Charizard", type: ["Fire 🔥"], ability: ["Blaze"], location: "Lake of Outrage")
+
+bulbasaur.displayInfo()
+charmander.displayInfo()
+squirtle.displayInfo()
+charizard.displayInfo()
