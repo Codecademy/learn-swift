@@ -1,10 +1,10 @@
 // Pokdex (Sonny Li)
 
 class Pokemon {
-  var num: Int
-  var name: String
-  var type: [String]
-  var ability: [String]
+  var num = 0
+  var name = ""
+  var type = [""]
+  var ability: [""]
 
   init(num: Int, name: String, type: [String], ability: [String]) {
     self.num = num
