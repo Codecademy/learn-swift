@@ -61,3 +61,61 @@ for aClass in classSet {
 }
 print ("There are \(sevenPlus) classes with seven or more students.")
 
+
+
+// Task Group: Challenge #1
+
+// Use `.remove()` to delete Skyla from any classes they are currently enrolled in.
+spanish101.remove("Skyla")
+artHistory.remove("Skyla")
+computerScience.remove("Skyla")
+
+// Create updated set of class rosters
+var newClassSet: Set = [spanish101, german101, englishLiterature, computerScience, artHistory, advancedCalculus]
+
+print("New Class Rosters:")
+for aClass in newClassSet {
+  print(aClass)
+}
+
+
+
+// Task Group: Challenge #2
+ 
+// Create a set called `fieldTrip` that combines these two sets using `.union()`
+var fieldTrip = Set<String>(computerScience.union(advancedCalculus))
+
+print("Field Trip Group:")
+print(fieldTrip)
+
+
+
+// Task Group: Challenge #3
+
+// Use `.subtracting()` to remove any students in `fieldTrip` who are also in `german101`
+fieldTrip = fieldTrip.subtracting(german101)
+print("Updated Field Trip Group:")
+print(fieldTrip)
+
+
+
+// Alternate for-loop solution for Challenge #1
+// Note: using this will not remove Skyla from the individual class sets (e.g., `computerScience`)
+// Uncomment the code block below to try it out:
+/*
+var updatedClassSet = Set<Set<String>>()
+for var innerSet in classSet {
+  if innerSet.contains("Skyla") {
+    innerSet.remove("Skyla")
+    updatedClassSet.insert(innerSet)
+  } else {
+    // If "Skyla" is not in the innerSet, insert to updatedClassSet as-is
+    updatedClassSet.insert(innerSet)
+  }
+}
+
+print("New Class Rosters:")
+for aClass in updatedClassSet {
+  print(aClass)
+}
+*/
