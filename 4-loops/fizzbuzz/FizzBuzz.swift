@@ -73,3 +73,8 @@ for num in 1...500 {
   }
 }
 */
+
+//Normal Challenge Pull Request
+for count in 1...100{
+  count%3==0 && count%5==0 ? print("FizzBuzz") : count%3==0 ? print("Fizz") : count%5==0 ? print("Buzz") : print(count)
+}
