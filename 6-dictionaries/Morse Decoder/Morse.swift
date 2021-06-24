@@ -41,7 +41,7 @@ var lettersToMorse: [String: String] = [
   "?": "..--..",
   ",": "--..--"
 ]
-
+//Option Challenge 1 see above, ".", "!", "?". "," all have been added to the Morse code.
 
 // Encoding a Message
 
@@ -123,3 +123,6 @@ for morseValue in morseCodeArray {
   }
 }
 print (decodedMessage)
+
+
+//Option Challenge 2 add .lowercased() after the var String englishText on line 52.
