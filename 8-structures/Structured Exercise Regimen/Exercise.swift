@@ -17,6 +17,9 @@ struct Exercise {
 }
 
 var pushUp = Exercise(name: "Push up", muscleGroups: ["Triceps", "Chest", "Shoulders"], reps: 10, sets: 3)
+//Optional Challenge 1 Added
+var sitUp = Exercise(name: "Sit Up", muscleGroups: ["Abdominal"], reps: 10, sets: 3)
+var squat = Exercise(name: "Squat", muscleGroups: ["Quadriceps", "Gluteus Maximus", "Adductor Magnus", "Soleus"], reps: 15, sets: 3)
 
 struct Regimen {
   var dayOfWeek: String 
@@ -39,4 +42,15 @@ struct Regimen {
 var mondayRegimen = Regimen(dayOfWeek: "Monday", exercises:[pushUp])
 
 mondayRegimen.printExercisePlan()
+
+//Optional Challenge 2 Added
+var wednesdayRegimen = Regimen(dayOfWeek: "Wednesday", exercises:[sitUp])
+
+var fridayRegimen = Regimen(dayOfWeek: "Friday", exercises:[squat])
+print()
+print()
+wednesdayRegimen.printExercisePlan()
+print()
+print()
+fridayRegimen.printExercisePlan()
 
