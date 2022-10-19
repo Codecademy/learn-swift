@@ -24,7 +24,7 @@ for num in 2...checkPrime - 1 {
   }
 }
 
-print("Is \(checkPrime) a prime numer? \(isPrime)!")
+print("Is \(checkPrime) a prime number? \(isPrime)!")
 
 
 // Third Challenge 
