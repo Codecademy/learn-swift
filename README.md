@@ -4,7 +4,7 @@
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
-**Curriculum Developer:** Sonny Li (sonny@codecademy.com) [![alt text][2]][2.1] [![alt text][1]][1.1]
+**Curriculum Developer:** Sonny Li
 
 <!-- links to social media icons -->
 
@@ -19,20 +19,15 @@
 
 <!-- links to social media accounts -->
 
-[1.1]: http://www.twitter.com/sonnynomnom
-[2.1]: http://www.github.com/sonnynomnom
-
 [2.2]: http://www.github.com/linkcoding
 
-[2.3]: http://www.github.com/galinap684
 
-[2.4]: http://www.github.com/adistasicc
     
 **Curriculum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.2]
 
-**Curriculum Developer:** Galina Podstrechnaya (galina@codecademy.com) [![alt text][2]][2.3]
+**Curriculum Developer:** Galina Podstrechnaya 
 
-**Curriculum Developer:** Alex DiStasi (adistasi@codecademy.com) [![alt text][2]][2.4]
+**Curriculum Developer:** Alex DiStasi 
 
 **Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
