@@ -11,20 +11,31 @@ for num in 1...100 {
 }
 
 
-// Second Challenge 
-// checkPrime can be changed to a positive number greater than 1
-var checkPrime = 17
-// Assume the number is prime until proven otherwise
-var isPrime = true
-for num in 2...checkPrime - 1 {  
-  // If checkPrime is fully divisible by the current number it's not a prime number
-  if checkPrime % num == 0 {
-    isPrime = false
-    break
+// Second Challenge
+// checkPrime can be any integer
+var checkPrime = 5 
+// isPrime may be initialized with either a true or false value
+var isPrime = false
+// checkPrime will be divisble by no number other than itself and 1 if it is a prime number
+if checkPrime > 2 {
+  for num in 2...checkPrime - 1 {
+    if checkPrime % num == 0 {
+      isPrime = false
+      break
+    } else {
+      // isPrime = true when a number larger than 2 could not be divided by num
+      isPrime = true
+    }
   }
+  // 2 is a prime number
+} else if checkPrime == 2 {
+  isPrime = true
+  // all numbers under 2 are not prime
+} else {
+  isPrime = false
 }
 
-print("Is \(checkPrime) a prime numer? \(isPrime)!")
+print("Is \(checkPrime) a prime number? \(isPrime)!")  
 
 
 // Third Challenge 
