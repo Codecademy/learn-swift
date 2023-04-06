@@ -30,7 +30,7 @@ if checkPrime > 2 {
   // 2 is a prime number
 } else if checkPrime == 2 {
   isPrime = true
-  // all numbers under 2 are not prime
+  // All numbers under 2 are not prime
 } else {
   isPrime = false
 }
