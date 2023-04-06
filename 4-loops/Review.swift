@@ -13,7 +13,7 @@ for num in 1...100 {
 
 // Second Challenge
 // checkPrime can be any integer
-var checkPrime = 5 
+var checkPrime = 5
 // isPrime may be initialized with either a true or false value
 var isPrime = false
 // checkPrime will be divisble by no number other than itself and 1 if it is a prime number
@@ -27,15 +27,17 @@ if checkPrime > 2 {
       isPrime = true
     }
   }
-  // 2 is a prime number
-} else if checkPrime == 2 {
+} 
+// 2 the lowest prime number
+if checkPrime == 2 {
   isPrime = true
-  // All numbers under 2 are not prime
-} else {
+}
+// All numbers under 2 are not prime
+if checkPrime < 2 {
   isPrime = false
 }
 
-print("Is \(checkPrime) a prime number? \(isPrime)!")  
+print("Is \(checkPrime) a prime number? \(isPrime)!")
 
 
 // Third Challenge 
