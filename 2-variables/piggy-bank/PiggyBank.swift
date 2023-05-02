@@ -1,4 +1,4 @@
-// Piggy Bank (Swift)
+// Piggy Bank 🐽
 // Sonny Li
 
 var pesos: Double = 4

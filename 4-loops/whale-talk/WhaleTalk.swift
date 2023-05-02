@@ -1,9 +1,7 @@
+// Whale Talk 🐋
 // Kenny Lin
-// Solution for Whale Talk
 
-// Create your Whale Talk program below:
-
-var input = "I know not all that may be coming, but be it what it will, I'll go to it laughing. -Moby Dick"
+var input = "I know not all that may be coming, but be it what it will, I'll go to it laughing. - Moby Dick"
 
 var output = ""
 

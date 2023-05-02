@@ -1,3 +1,6 @@
+// Body Mass Index 🏋️‍
+// Sonny Li
+
 var height: Double = 1.85
 var weight: Double = 82
 var bmi: Double

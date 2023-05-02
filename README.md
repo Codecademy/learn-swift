@@ -4,7 +4,7 @@
 
 <!-- [![](https://img.shields.io/badge/language-English-blue.svg)](./README.md) -->
 
-**Curriculum Developer:** Sonny Li (sonny@codecademy.com) [![alt text][2]][2.1] [![alt text][1]][1.1]
+**Curriculum Developer:** Sonny Li
 
 <!-- links to social media icons -->
 
@@ -19,20 +19,15 @@
 
 <!-- links to social media accounts -->
 
-[1.1]: http://www.twitter.com/sonnynomnom
-[2.1]: http://www.github.com/sonnynomnom
-
 [2.2]: http://www.github.com/linkcoding
 
-[2.3]: http://www.github.com/galinap684
 
-[2.4]: http://www.github.com/adistasicc
     
 **Curriculum Developer:** Kenny Lin (kenny@codecademy.com) [![alt text][2]][2.2]
 
-**Curriculum Developer:** Galina Podstrechnaya (galina@codecademy.com) [![alt text][2]][2.3]
+**Curriculum Developer:** Galina Podstrechnaya 
 
-**Curriculum Developer:** Alex DiStasi (adistasi@codecademy.com) [![alt text][2]][2.4]
+**Curriculum Developer:** Alex DiStasi 
 
 **Artwork:** Tim Liedtke (https://www.timliedtke.com)
 
@@ -78,49 +73,32 @@ https://www.codecademy.com/learn/learn-swift
 
 ## 3. Conditionals & Logic ##
 
-- [ ] `CoinFlip.swift`
-- [ ] `Grade.swift`
-- [ ] `PH.swift`
-- [ ] `Pokedex.swift`
-- [ ] `Space.swift`
-- [ ] `LeapYear.swift`
-
 **Magic 8-Ball:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/magic-8-ball/magic8ball.gif" align="right" width=250;>
 
-- [ ] `Magic8.swift`
-
-**Harry Potter Sorting Hat:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/harry-potter-sorting-hat/harrypotter.gif" align="right" width=250;>
-
-- [ ] `SortingHat.swift`
-
-**Rock Paper Scissors Lizard Spock:**
-<img src="https://github.com/Codecademy/learn-cpp/blob/master/3-conditionals-and-logic/rock-paper-scissors-lizard-spock/RPSLS.gif" align="right" width=250;>
-
-- [ ] `RPS.swift`
-- [ ] `RPSLS.swift`
-- [ ] `RPSLS_if.swift`
-- [ ] `RPSLS_switch.swift`
+- [x] [`Magic8Ball.swift`](https://github.com/Codecademy/learn-swift/blob/master/3-conditionals/magic-8-ball/Magic8Ball.swift)
 
 ## 4. Loops ##
 
-- [ ] `EnterPIN.swift`
-- [ ] `Guess.swift`
-- [ ] `Square.swift`
-- [ ] `Troublemaker.swift`
-- [ ] `99Bottles.swift`
+**Whale Talk:**
+
+- [x] [`WhaleTalk.swift`](https://github.com/Codecademy/learn-swift/blob/master/4-loops/whale-talk/WhaleTalk.swift)
+
+**99 Bottles:**
+
+- [x] [`Bottles.swift`](https://github.com/Codecademy/learn-swift/blob/master/4-loops/99-bottles/Bottles.swift)
+- [x] [`FiveLittleMonkeys.swift`](https://github.com/Codecademy/learn-swift/blob/master/4-loops/99-bottles/FiveLittleMonkeys.swift)
 
 **Fizz Buzz:**
 <img src="https://github.com/Codecademy/learn-cpp/blob/master/4-loops/fizzbuzz/fizzbuzz.gif" align="right" width=250;>
 
-- [ ] `FizzBuzz.swift`
-
-**99 Bottles:**
-
-- [ ] `Bottles.swift`
+- [x] [`FizzBuzz.swift`](https://github.com/Codecademy/learn-swift/blob/master/4-loops/fizzbuzz/FizzBuzz.swift)
 
 ## 5. Arrays ##
+
+- [x] [`NewYearNewMe.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/NewYearNewMe.swift)
+- [x] [`DNA.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/DNA.swift)
+- [x] [`RetailTherapy.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/RetailTherapy.swift)
 
 **Make a Mixtape 101:**
 
@@ -129,18 +107,29 @@ https://www.codecademy.com/learn/learn-swift
 
 **Palindrome:**
 
-- [ ] `Palindrome.swift`
+- [x] [`Palindrome.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/palindrome/Palindrome.swift)
 
 **Caesar's Cipher:**
 
 - [x] [`CaesarCipher.swift`](https://github.com/Codecademy/learn-swift/blob/master/5-arrays/caesar-cipher/CaesarCipher.swift)
 
+## 6. Dictionaries ##
+
+## 7. Functions ##
+
+## 8. Structures ##
+
+## 9. Classes ##
+
 ---
 
-### Cheat Sheets (BETA) ###
+### Cheatsheets ###
 
-1. [Hello World](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-hello-world/reference)
-2. [Variables](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-variables/reference)
+1. [Hello World](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-hello-world/cheatsheet)
+2. [Variables](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-variables/cheatsheet)
+3. [Condtionals & Logic](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-conditionals/cheatsheet)
+4. [Loops](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-loops/cheatsheet)
+5. [Arrays](https://www.codecademy.com/learn/learn-swift/modules/learn-swift-arrays/cheatsheet)
 
 ### Skill Paths ###
 
@@ -157,15 +146,9 @@ https://www.codecademy.com/learn/learn-swift
 
 ### Swift Style Guides ###
 
-* Codecademy C++ Style Guide
+* Codecademy Swift Style Guide
 * [LinkedIn Swift Style Guide](https://github.com/linkedin/swift-style-guide)
 * [Google Swift Style Guide](https://google.github.io/swift/)
-
-### Hall of Fame ###
-
-* TBA
-
-<br>
 
 ## Contribution Guidelines
 

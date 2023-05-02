@@ -1,4 +1,4 @@
-// Quadratic Formula (Swift)
+// Quadratic Formula 📈
 // Sonny Li
 
 var a: Double = 6
