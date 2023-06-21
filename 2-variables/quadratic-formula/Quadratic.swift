@@ -1,19 +1,39 @@
-// Quadratic Formula 📈
-// Sonny Li
+/* 
+Date: June 21, 2023
 
-var a: Double = 6
-var b: Double = -7
-var c: Double = -3
+This is to calculate quadratic formula. 
 
-var root1: Double
-var root2: Double
+The equation is:
 
-// The positive root
-root1 = (-b + (b*b - 4*a*c).squareRoot()) / (2*a)
+x = (-b +or- sqrt(b^2  - 4ac) )/(2a) 
 
-// The negative root
-root2 = (-b - (b*b - 4*a*c).squareRoot()) / (2*a)
+First step let us defind b, a, c
+*/
 
-// Outputting the roots
-print("Root 1 is \(root1)")
-print("Root 2 is \(root2)")
+import Foundation //Math framwork
+
+//Identify a, b, c
+var a : Double = 2
+
+var b : Double = 5
+
+var c : Double = 3
+
+
+//b^2
+var bSquared = pow(b, 2)
+
+
+// square root
+var discriminant : Double = sqrt(bSquared - (4 * a * c))
+
+
+//The formula
+var xPositive : Double = ((-b + discriminant) / (2 * a))
+var xNegitive : Double = ((-b - discriminant) / (2 * a))
+
+//Print Result
+print("The quadratic formula result for X if a = \(a) b = \(b) and c = \(c) is:")
+print(" X = \(xPositive), or X = \(xNegitive)")
+
+
