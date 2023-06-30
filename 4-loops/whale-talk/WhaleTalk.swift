@@ -1,99 +1,60 @@
-// Whale Talk 🐋
-// Kenny Lin
+// Whale Talk No.4  ===> final
+// Date June 30, 2023
+// Swift Programming
 
-var input = "I know not all that may be coming, but be it what it will, I'll go to it laughing. - Moby Dick"
+import Foundation
 
-var output = ""
+//Take humantext
+var input = "Turpentine and TurTles🫥 !!!" 
 
-for char in input {
-  let lowerChar = char.lowercased()
-  
-  switch lowerChar {
-    case "a", "i", "o":
-      output += lowerChar.uppercased()
-    case "e":
-      output += "EE"
-    case "u":
-      output += "UU"  
-    default:
-      continue
-  }
+//Output variable. Kepp it empty at the beginning
+var output: String = NSLocalizedString(" ", comment: "")
+
+//Remove space from input and make it lowercase.
+input = input.lowercased()
+input = input.replacingOccurrences(of: " ", with: "")
+
+//Create for-in loop to iterate over input.
+for charachter in input {
+    switch charachter {
+        
+        //Case 1: check if input has a, i, o
+        case "a", "i", "o":
+        //return a, i, o as they are.
+        output.append(charachter)
+
+        //case 2 check if there is an "e". case 3 check if there is a "u".(Were seperated)
+        //Case 2 and 3 combined  (this is part of Step 12 challenge 3, Final challenge)
+        case "e", "u":
+        output.append(String(repeating: charachter, count: 2))
+
+        //Case 4 (this is part of Step 12 challenge 1)
+        case let char where "!#$%&'()*+,-./:;<=>?@[]^_`{|}~".contains(char):
+        output.append(char)
+
+        //Case 5 (this is part of Step 12 challenge 2)
+        case let char where "😍🌕⭐️🛏️😭😢😔☹️😞🙁😪😟🤒🎭🎭🤯😥😓🫥💩💀☠️👾😾😿🫦🦷👀✍🏼🦾🦿🦾".contains(char):
+        output.append(char)
+
+        
+
+        //Finally other charachters, symbols, or constants are ignored.
+        default:
+        continue
+    }
 }
 
-print(output)
 
-// Additional Challenges:
-// First: 
-/*
-var input = "I know not all that may be coming, but be it what it will, I'll go to it laughing. -Moby Dick"
+//Make output uppercase
+output = output.uppercased()
 
-var output = ""
+//Make output in whale language
+print("Here is the translation of the human phrase \(input)")
+print("in whale language ==>      \(output) ")
 
-for char in input {
-  let lowerChar = char.lowercased()
-  
-  switch lowerChar {
-    // Added "y" below:
-    case "a", "i", "o", "y":
-      output += lowerChar.uppercased()
-    case "e":
-      output += "EE"
-    case "u":
-      output += "UU"  
-    default:
-      continue
-  }
-}
+//Step 1-11 done
 
-print(output)
-/*
-
-// Second:
-/*
-var input = "I know not all that may be coming, but be it what it will, I'll go to it laughing. -Moby Dick"
-
-var output = ""
-
-for char in input {
-  let lowerChar = char.lowercased()
-  
-  switch lowerChar {
-    // Added consonants:
-    case "a", "i", "o", "b", "p":
-      output += lowerChar.uppercased()
-    case "e":
-      output += "EE"
-    case "u":
-      output += "UU"  
-    default:
-      continue
-  }
-}
-
-print(output)
-/*
+//Step 12: Done above......
 
 
-// Third:
-/*
-var input = "I know not all that may be coming, but be it what it will, I'll go to it laughing. -Moby Dick"
 
-var output = ""
-
-for char in input {
-  let lowerChar = char.lowercased()
-  
-  switch lowerChar {
-    case "a", "i", "o":
-      output += lowerChar.uppercased()
-    // Both "e" and "u" are in a single case
-    case "e", "u":
-      // Used a ternary operator to determine which letters get added
-      output += lowerChar == "e" ? "EE" : "UU"
-    default:
-      continue
-  }
-}
-
-print(output)
-*/
